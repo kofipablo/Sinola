@@ -1,0 +1,2 @@
+# Sinola
+First-devops-project
